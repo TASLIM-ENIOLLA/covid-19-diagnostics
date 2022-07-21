@@ -252,8 +252,6 @@ class App extends Component{
             						<p>Tation argumentum et usu, dicit viderer evertitur te has. Eu dictas concludaturque usu, facete detracto patrioque an per, lucilius pertinacia eu vel. Adhuc invidunt duo ex. Eu tantas dolorum ullamcorper qui.</p>
             						<a href="#start" className="btn_1 rounded mobile_btn">Start Now!</a>
             					</div>
-            					<div className="copy">© 2021 ICS406
-            					</div>
             				</div>
             			</div>
 
