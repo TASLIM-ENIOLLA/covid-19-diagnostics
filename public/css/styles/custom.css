@@ -1,0 +1,61 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+
+@import url("animate.css");
+@import url("bootstrap.min.css");
+@import url("common.css");
+@import url("style.css");
+
+.pulse{
+    animation: pulse 2s ease-in-out infinite;
+}
+@keyframes pulse{
+    0%{
+        transform: scale(1);
+    }
+    25%{
+        transform: scale(1.1);
+    }
+    50%{
+        transform: scale(1);
+    }
+    65%{
+        transform: scale(1.05);
+    }
+}
+/*
+
+cough: null,
+fever: null,
+fatigue: null,
+difficulty_in_breathing: null,
+loss_of_taste_or_smell: null,
+diarrhea: null,
+headache: null,
+sore_throat: null,
+muscle_aches: null,
+pink_eye_conjunctivitis: null
+
+*/
+/*
+    cough
+    fever
+    fatigue
+    shortness of breath or difficulty in breathing
+    loss of taste or smell,
+    diarrhea
+    headache
+    sore throat
+    muscle aches
+    pink eye(conjunctivitis)
+
+    chills
+    runny nose
+    chest pain
+    Nausea
+    vomiting
+    rash
+    inabilty to stay awake
+
+*/
